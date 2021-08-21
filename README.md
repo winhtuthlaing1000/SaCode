@@ -36,10 +36,9 @@ python3 gen_sa_accounts.py --download-keys သင့်project name
 ```
 python3 emails.py
 ```
-## 📗 ပြီးလျှင် repo တခုလုံးကို Download ပါ။ Download မလုပ်မီ အာက်ကပထားသာဖိုင်များကို MainData ထဲ အရင်ထည့ပါ
--.မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး 
-1.accounts folder (contain 100 jsons)
-2.emails.txt
-3.credentials.json
-4.token.pickle
-  ဖိုင်များကိုသိမ်းထားပါ။
+## 📙 ပြီးလျှင် repo တခုလုံးကို Download ပါ။ Download မလုပ်မီ ​အောက်ကပြထားသာဖိုင်များကို MainData ထဲ အရင်ထည့်ပါ
+1. accounts folder (contain 100 jsons) 
+2. emails.txt 
+3. credentials.json 
+4. token.pickle ဖိုင်များကိုသိမ်းထားပါ။
+✅မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး သိမ်းပါ✅
