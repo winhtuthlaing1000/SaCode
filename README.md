@@ -38,9 +38,9 @@ python3 emails.py
 ```
 
 ## ပြီးလျှင် repo တခုလုံးကို Download ပါ။ Download မလုပ်မီ အာက်ကပထားသာဖိုင်များကို MainData ထဲ အရင်ထည့ပါ။
- -မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး 
-    -accounts folder (contain 100 jsons)
-    -emails.txt
-    -credentials.json
-    -token.pickle
-    ဖိုင်များကိုသိမ်းထားပါ။
+-မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး 
+  -accounts folder (contain 100 jsons)
+  -emails.txt
+  -credentials.json
+  -token.pickle
+  ဖိုင်များကိုသိမ်းထားပါ။
