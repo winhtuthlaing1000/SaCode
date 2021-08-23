@@ -37,7 +37,7 @@ if __name__ == '__main__':
     out_txt.writelines(emails_list)
     out_txt.close()
 
-    #移动文件至email目录
+    #移动文件至email目z录
     os.mkdir(abspath + './email')
     shutil.move(''.join(glob.glob(r'*.txt')), os.getcwd() + '/email')
     print('\nAll done.')
