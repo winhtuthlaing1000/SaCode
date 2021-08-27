@@ -42,3 +42,8 @@ python3 emails.py
 3. credentials.json 
 4. token.pickle ဖိုင်များကိုသိမ်းထားပါ။
     ✅မိမိကွန်ပျူတာ သို့မဟုတ် ဖုန်း ထဲရောက်မှ zip ဖြည်ပြီး သိမ်းပါ✅
+    
+# ဆက်သွယ်ရန်
+[Bot Tutorials Channel](https://t.me/BotTutorialsMM)
+
+[ContactMe](https://t.me/Dr007bot)
