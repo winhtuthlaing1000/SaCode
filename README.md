@@ -1,6 +1,6 @@
 Run the followings at https://replit.com/ in "Shell"
 
-ပထမဆုံး သင့် https://console.cloud.google.com/ မှ credentials file ကို ယခု repo ရှိ credentials ထဲသို့ကူးပါ။
+ပထမဆုံး သင့် https://console.cloud.google.com/ မှ credentials file ကို ယခု repo ရှိ credentials ထဲသို့ကူးပါ
 
 ## 💠ပြုလုပ်ရန်အဆင့်များ
 ၁
